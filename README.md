@@ -307,16 +307,16 @@ The system provides detailed, contextual answers with:
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](C:/Users/GLIDE CLOUD/.gemini/antigravity/brain/31106ca7-bcf5-439f-8e34-ecb5a55756e6/main_interface_1768484991263.png)
+![Main Interface](docs/screenshots/main_interface_1768484991263.png)
 
 ### Company Filter Dropdown
-![Company Dropdown](C:/Users/GLIDE CLOUD/.gemini/antigravity/brain/31106ca7-bcf5-439f-8e34-ecb5a55756e6/company_dropdown_options_1768485008095.png)
+![Company Dropdown](docs/screenshots/company_dropdown_options_1768485008095.png)
 
 ### Top 3 Search Results
-![Search Results](C:/Users/GLIDE CLOUD/.gemini/antigravity/brain/31106ca7-bcf5-439f-8e34-ecb5a55756e6/top_3_search_results_1768485200240.png)
+![Search Results](docs/screenshots/top_3_search_results_1768485200240.png)
 
 ### AI-Generated Answer
-![AI Answer](C:/Users/GLIDE CLOUD/.gemini/antigravity/brain/31106ca7-bcf5-439f-8e34-ecb5a55756e6/ai_generated_answer_1768485228266.png)
+![AI Answer](docs/screenshots/ai_generated_answer_1768485228266.png)
 
 ---
 
