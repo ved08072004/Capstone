@@ -8,7 +8,7 @@ import pdfplumber
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
 
-from config.settings import (
+from src.config.settings import (
     PINECONE_API_KEY,
     INDEX_NAME,
     CHUNK_SIZE,

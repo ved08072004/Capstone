@@ -5,7 +5,7 @@ Generates AI-powered answers using LLM based on retrieved context
 
 from google import genai
 
-from config.settings import GEMINI_API_KEY, LLM_MODEL
+from src.config.settings import GEMINI_API_KEY, LLM_MODEL
 
 
 class QAService:

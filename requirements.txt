@@ -4,3 +4,6 @@ pinecone-client
 pdfplumber
 python-dotenv
 google-genai
+pytest
+pytest-html
+pytest-cov

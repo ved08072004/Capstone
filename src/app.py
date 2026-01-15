@@ -9,7 +9,7 @@ from pinecone import Pinecone
 from google import genai
 
 # Import from package structure (relative imports)
-from config.settings import (
+from src.config.settings import (
     PINECONE_API_KEY,
     GEMINI_API_KEY,
     INDEX_NAME,
@@ -19,10 +19,10 @@ from config.settings import (
     PAGE_ICON,
     LAYOUT
 )
-from services.document_processor import DocumentProcessor
-from services.search_service import semantic_search
-from services.qa_service import generate_answer_with_gemini
-from utils.helpers import get_available_companies
+from src.services.document_processor import DocumentProcessor
+from src.services.search_service import semantic_search
+from src.services.qa_service import generate_answer_with_gemini
+from src.utils.helpers import get_available_companies
 
 # ---------------------------
 # PAGE CONFIG
